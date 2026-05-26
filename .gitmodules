@@ -1,0 +1,4 @@
+[submodule "simple-repo1"]
+	path = simple-repo1
+	url = https://github.com/bisban143/simple-repo1.git
+	branch = main
