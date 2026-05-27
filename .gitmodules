@@ -6,3 +6,7 @@
 	path = simple-repo2
 	url = https://github.com/bisban143/simple-repo2.git
 	branch = main
+[submodule "simple-repo3"]
+	path = simple-repo3
+	url = https://github.com/bisban143/simple-repo3.git
+	branch = main
